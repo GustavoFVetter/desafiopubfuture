@@ -5,9 +5,9 @@ import java.sql.SQLException;
 public class FazerConexao {
 
 	/**
-	 * MÈtodo usado para criar uma conex„o com o bandco de dados.
+	 * M√©todo usado para criar uma conex√£o com o banco de dados.
 	 * 
-	 * @return DriverManager far· esta conex„o com o banco de dados.
+	 * @return DriverManager far√° esta conex√£o com o banco de dados.
 	 */
 	public static Connection getConexao() {
 		try {
