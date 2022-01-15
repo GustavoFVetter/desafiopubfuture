@@ -1,0 +1,28 @@
+
+Decidi há uns 6 meses atrás estudar lógica e programação para entrar na área de TI.
+
+Iniciei com um Curso de Lógica e Introdução à Programação promovido pela Pacetech Infinity Learning, 
+onde vimos lógica e linguagem de programação em pseudo-código (VisualG). Quando os fundamentos iniciais de programação já
+estavam estabelecidos, vimos também um pouco de Java. Com muito orgulho digo que fui o primeiro colocado da turma.
+
+Quando eu estava encerrando o curso na Pacetech (final de nov21) vi o Programa Pub Future e me inscrevi.
+Sei das minhas limitações em programação e decidi ir até onde meu atual conhecimento permitir.
+Como o bichinho da TI me pegou, resolvi comprar um curso on-line de Java, para melhorar minha bagagem.
+
+Com a divulgação do desafio, fiz uma imersão para estudar o máximo possível o curso de Java recém adquirido e ter condições 
+de entregar o máximo possível do desafio. Tudo que eu aprendi foi assistindo as aulas do curso da Udemy (Leonardo Moura Leitão) e 
+vídeos no Youtbe, principalmente o canal da Loiane Groner. Como são aulas passivas, não há como tirar as dúvidas que surgem.
+Isso me levou a ver e rever vários vídeos, assim como buscar outras fontes.
+
+Dei o melhor que pude com os conhecimentos adquiridos até o momento. Dediquei 2 semanas integralmente para estudar e
+executar o meu melhor para entregar o desafio. Mesmo não tendo implementado todas as exigências do desafio, resolvi postar.
+
+Mesmo que eu não vá para a próxima fase, sigo estudando. No final de jan22 começo num curso de inglês
+com ênfase para TI, na Pacetech.  Além deste, também comprei outro curso do mesmo tema pela Udemy.
+E ainda tem vários vídeos do curso de Java para assitir.
+Minha maior meta para 2022 é trabalhar numa empresa do ramo. E assim será!!!
+
+Sobre o desafio, procurei fazer tudo para que não haja a necessidade de ter um "manual" do lado para executá-lo.
+Fiz uso de comentários e informações na documentação, para tornar tudo o mais intuitivo possível, pensando sempre na
+praticidade para o usuário interagir com o produto. Umas poucas vezes uma mensagem orientativa aparece para o usuário no 
+momento que ele deverá inserir/informar algum dado.
